@@ -1,13 +1,12 @@
 # 📄 Documentación del Proyecto — XUMIDE Industries
 
-Este repositorio está dedicado a **guardar y organizar toda la documentación oficial** del proyecto colaborativo desarrollado por el equipo de XUMIDE Industries.
+Este repositorio está dedicado a **guardar y organizar toda la documentación** del proyecto colaborativo desarrollado por el equipo de XUMIDE Industries.
 
 ## 📚 ¿Qué contiene este repositorio?
 
 - Documentos técnicos (Word, PDF)
 - Diapositivas de exposición
 - Modelos metodológicos (modelo en cascada, fases de desarrollo)
-- Análisis de requerimientos, planeación y evidencias
 
 ## 🧠 Propósito
 
@@ -22,10 +21,4 @@ Servir como un **centro de consulta** para el material documental que respalda e
 
 Este repositorio **no incluye código fuente**. Para consultar el desarrollo en Python, visita el repositorio principal:
 
-🔗 [`Proyectos-colaborativos`](https://github.com/XUMIDE-Industries/Proyectos-colaborativos)
-
----
-
-> Proyecto académico supervisado por el profesor **Jorge Anzaldo Bustos**  
-> Ingeniería en Sistemas Computacionales — IPN  
-> 2025
+🔗 [`Proyectos-colaborativos`](https://github.com/XUMIDE-Industries/Proyectos-colaborativos.)
